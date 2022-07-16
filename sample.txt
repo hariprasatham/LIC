@@ -1,4 +1,6 @@
-hi this is my first code . this is for learning github
 
 
 2nd day of the git
+
+
+
